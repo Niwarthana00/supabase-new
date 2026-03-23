@@ -9,9 +9,13 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.niwarthana00.myfirstapp",
+      "buildNumber": "1.0.0"
     },
     "android": {
+      "package": "com.niwarthana00.myfirstapp",
+      "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
